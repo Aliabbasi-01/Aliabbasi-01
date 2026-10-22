@@ -40,8 +40,7 @@ Tools    : Git, Docker, VS Code, Visual Studio
 <td width="42%" align="center" valign="middle">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=360&height=180&lines=%3E+Initializing+Developer+Mode...;%E2%9C%93+Flutter+%7C+Kotlin+%7C+Android;%E2%9C%93+ASP.NET+Core+%7C+C%23+%7C+REST+APIs;%E2%9A%A1+Building+Scalable+Applications;%F0%9F%9A%80+Turning+Ideas+Into+Products;%E2%9C%A6+Minimal+Code.+Maximum+Impact." alt="Developer status animation" />
-
+<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='760' height='300' viewBox='0 0 760 300'%3E%3C/svg%3E" alt="Developer terminal animation" />
 
 </td>
 </tr>
