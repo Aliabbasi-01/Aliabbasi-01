@@ -1,1 +1,76 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050b16"/>
+      <stop offset="1" stop-color="#02060d"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1e293b"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+    .line { fill: #e2e8f0; font-size: 15px; }
+    .prompt { fill: #22d3ee; font-weight: 700; }
+    .ok { fill: #4ade80; font-weight: 700; }
+    .accent { fill: #22d3ee; }
+    .muted { fill: #64748b; }
+    .cursor { fill: #22d3ee; animation: blink 1s steps(1) infinite; }
+    .glow { filter: url(#glow); }
+    .scan { fill: url(#bg); opacity: .08; animation: scan 7s linear infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes scan { from { transform: translateY(-300px); } to { transform: translateY(300px); } }
+    @keyframes reveal1 { from { width: 0; } to { width: 300px; } }
+    @keyframes reveal2 { from { width: 0; } to { width: 260px; } }
+    @keyframes reveal3 { from { width: 0; } to { width: 300px; } }
+    @keyframes reveal4 { from { width: 0; } to { width: 280px; } }
+    @keyframes reveal5 { from { width: 0; } to { width: 330px; } }
+    .r1 { animation: reveal1 1.4s steps(30) .2s forwards; }
+    .r2 { animation: reveal2 1.4s steps(26) 1.7s forwards; }
+    .r3 { animation: reveal3 1.4s steps(30) 3.2s forwards; }
+    .r4 { animation: reveal4 1.4s steps(28) 4.7s forwards; }
+    .r5 { animation: reveal5 1.6s steps(33) 6.2s forwards; }
+    .clip { clip-path: inset(0 100% 0 0); }
+  </style>
+
+  <rect width="760" height="300" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="758" height="298" rx="15" fill="none" stroke="#22d3ee" stroke-opacity=".25"/>
+  <rect width="760" height="42" rx="16" fill="url(#bar)"/>
+  <rect y="26" width="760" height="16" fill="url(#bar)"/>
+
+  <circle cx="26" cy="21" r="6" fill="#ff5f57"/>
+  <circle cx="46" cy="21" r="6" fill="#febc2e"/>
+  <circle cx="66" cy="21" r="6" fill="#28c840"/>
+  <text x="380" y="26" text-anchor="middle" class="mono muted" font-size="13">developer@portfolio: ~/projects</text>
+
+  <text x="30" y="82" class="mono prompt">$</text>
+  <text x="48" y="82" class="mono line clip r1">Initializing Developer Mode...</text>
+
+  <text x="30" y="116" class="mono ok">✔</text>
+  <text x="52" y="116" class="mono line clip r2">Flutter | Kotlin | Android</text>
+
+  <text x="30" y="150" class="mono ok">✔</text>
+  <text x="52" y="150" class="mono line clip r3">ASP.NET Core | C# | REST APIs</text>
+
+  <text x="30" y="184" class="mono accent">⚡</text>
+  <text x="52" y="184" class="mono line clip r4">Building Scalable Applications</text>
+
+  <text x="30" y="218" class="mono accent">🚀</text>
+  <text x="52" y="218" class="mono line clip r5">Turning Ideas Into Products</text>
+
+  <text x="30" y="258" class="mono prompt">➜</text>
+  <text x="52" y="258" class="mono accent">✦ Minimal Code. Maximum Impact.</text>
+  <rect x="390" y="246" width="10" height="18" class="cursor glow"/>
+
+  <rect class="scan" width="760" height="60"/>
+</svg>
