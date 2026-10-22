@@ -28,31 +28,23 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=22D3EE&center=false&vCenter=true&width=520&height=28&lines=Software+Engineer+%7C+Mobile+%26+Backend+Developer;Turning+ideas+into+scalable+products;Clean+code+%E2%80%A2+Real+impact+%E2%80%A2+Continuous+learning" alt="Typing status" />
 
 <br/>
-
 I design and build **modern mobile applications**, **reliable backend APIs**, and **scalable digital products**.  
 I enjoy taking an idea from concept to a polished, production-ready solution.
 
 <br/>
-
 #### 🎯 What I Do
-
 | Focus | Details |
 |---|---|
 | 📱 **Mobile Apps** | Flutter, Kotlin, Android, Firebase |
 | ⚙️ **Backend Systems** | ASP.NET Core, C#, REST APIs |
 | 🗄️ **Data & Storage** | SQL Server, SQLite, Firebase |
 | 🚀 **Product Mindset** | Clean architecture, performance, UX |
-
 <br/>
-
 #### 🧠 Currently
-
 - 🔭 Building mobile and backend products  
 - 🌱 Exploring advanced Flutter architecture & cloud integration  
 - 💬 Open to collaborations, internships, and software engineering roles  
-
 <br/>
-
 > ✨ **Minimal code. Maximum impact.**
 
 </td>
@@ -97,7 +89,7 @@ I enjoy taking an idea from concept to a polished, production-ready solution.
 <div align="center">
 
 <a href="https://github.com/Aliabbasi-01/Expense_Tracker_Flutter">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliabbasi-01&repo=Expense_Tracker_Flutter&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE&icon_color=A78BFA" alt="Expense Tracker Flutter" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliabbasi-01&repo=Expense_Tracker_Flutter&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE&icon_color=A78BFA&v=2" alt="Expense Tracker Flutter" />
 </a>
 
 <a href="https://github.com/Aliabbasi-01/Muhammad-Ali-Portfolio">
