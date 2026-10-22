@@ -25,7 +25,6 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
 
 <table>
 <tr>
@@ -73,18 +72,77 @@ I build **modern mobile apps**, **reliable backend APIs**, and **scalable digita
 
 <div align="center">
 
-**📱 Mobile & Cross Platform**<br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" /><br/><br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**⚙️ Backend & APIs**<br/>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman,swagger&theme=dark" /><br/><br/>
+### 📱 Mobile & Cross-Platform
 
-**🗄️ Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite&theme=dark" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,java&theme=dark&perline=5" alt="Mobile development stack" />
 
-**🛠️ Tools & Others**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,figma&theme=dark" />
+<br/>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,postman,swagger&theme=dark&perline=6" alt="Backend development stack" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/REST_API-22D3EE?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite,supabase,vercel&theme=dark&perline=5" alt="Database and cloud stack" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,figma,githubactions,postman&theme=dark&perline=8" alt="Tools and workflow stack" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🧠 Also Exploring
+
+<img src="https://skillicons.dev/icons?i=azure,aws,linux,md,ai,openai&theme=dark&perline=6" alt="Currently exploring technologies" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Cloud-Exploring-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Cloud" />
+<img src="https://img.shields.io/badge/AI_Tools-Exploring-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="AI tools" />
+<img src="https://img.shields.io/badge/Clean_Architecture-Learning-34D399?style=for-the-badge&labelColor=0D1117" alt="Clean architecture" />
 
 </div>
 
