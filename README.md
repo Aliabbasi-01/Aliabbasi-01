@@ -187,9 +187,7 @@ I build **modern mobile apps**, **reliable backend APIs**, and **scalable digita
 
 <img src="https://streak-stats.demolab.com?user=Aliabbasi-01&theme=tokyonight&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=22D3EE&border=4C1D95" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aliabbasi-01&theme=tokyo-night&bg_color=0D1117&color=22D3EE&line=A78BFA&point_color=FFFFFF&area=true&hide_border=true" width="100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aliabbasi-01&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 
 <img
   src="./assets/activity-card.svg"
