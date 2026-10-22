@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img src="./assets/header.svg" width="100%" alt="Muhammad Ali - Software Engineer" />
 
 <a href="https://github.com/Aliabbasi-01">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=Building+high-quality+mobile+apps+%F0%9F%93%B1;Crafting+robust+backend+systems+%E2%9A%99%EF%B8%8F;Flutter+%E2%80%A2+Kotlin+%E2%80%A2+ASP.NET+Core+%E2%80%A2+C%23;Small+steps%2C+big+progress+%F0%9F%9A%80" alt="typing" />
