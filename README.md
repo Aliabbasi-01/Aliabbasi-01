@@ -191,7 +191,11 @@ I build **modern mobile apps**, **reliable backend APIs**, and **scalable digita
 
 <img src="https://github-profile-trophy.vercel.app/?username=Aliabbasi-01&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 
-<img src="https://raw.githubusercontent.com/Aliabbasi-01/Aliabbasi-01/output/github-snake-dark.svg" width="100%" alt="contribution snake" />
+<img
+  src="./assets/activity-card.svg"
+  width="100%"
+  alt="Muhammad Ali - Currently building mobile and backend products"
+/>
 
 </div>
 
