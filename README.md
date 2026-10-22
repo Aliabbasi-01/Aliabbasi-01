@@ -41,7 +41,7 @@ Tools    : Git, Docker, VS Code, Visual Studio
 
 
 <img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='760' height='300' viewBox='0 0 760 300'%3E%3C/svg%3E" alt="Developer terminal animation" />
-
+![Developer terminal animation](./developer-terminal.svg)
 </td>
 </tr>
 </table>
