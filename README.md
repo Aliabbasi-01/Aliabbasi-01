@@ -39,7 +39,9 @@ Tools    : Git, Docker, VS Code, Visual Studio
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=A78BFA&center=true&vCenter=true&width=320&height=140&lines=%F0%9F%94%AD+Currently+building+Flutter+apps;%E2%9A%99%EF%B8%8F+Designing+ASP.NET+Core+APIs;%F0%9F%93%9A+Learning+something+new+every+day;%F0%9F%A4%9D+Open+to+collaborations;%E2%9A%A1+Better+Code%2C+Bigger+Dreams" />
+```html
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=360&height=180&lines=%3E+Initializing+Developer+Mode...;%E2%9C%93+Flutter+%7C+Kotlin+%7C+Android;%E2%9C%93+ASP.NET+Core+%7C+C%23+%7C+REST+APIs;%E2%9A%A1+Building+Scalable+Applications;%F0%9F%9A%80+Turning+Ideas+Into+Products;%E2%9C%A6+Minimal+Code.+Maximum+Impact." alt="Developer status animation" />
+```
 
 </td>
 </tr>
