@@ -36,12 +36,11 @@ Tools    : Git, Docker, VS Code, Visual Studio
 
 > 💡 **Ideas + Technology = Impact**
 
-</td>
 <td width="42%" align="center" valign="middle">
   <img
-    src="./assets/developer-terminal.svg"
+    src="./assets/developer-card.svg"
     width="100%"
-    alt="Muhammad Ali - Developer terminal animation"
+    alt="Muhammad Ali - Software Engineer animated profile card"
   />
 </td>
 </tr>
