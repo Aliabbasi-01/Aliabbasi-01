@@ -19,32 +19,32 @@
 
 ## 👨‍💻 About Me
 
+## 👨‍💻 About Me
+
 <table>
 <tr>
 <td width="58%" valign="top">
 
 ### 👋 Hi, I’m **Muhammad Ali**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=22D3EE&center=false&vCenter=true&width=520&height=28&lines=Software+Engineer+%7C+Mobile+%26+Backend+Developer;Turning+ideas+into+scalable+products;Clean+code+%E2%80%A2+Real+impact+%E2%80%A2+Continuous+learning" alt="Typing status" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=900&color=22D3EE&center=false&vCenter=true&width=480&height=26&lines=Mobile+%26+Backend+Developer;Flutter+%E2%80%A2+Kotlin+%E2%80%A2+ASP.NET+Core;Building+clean+and+scalable+products" alt="Typing status" />
 
-<br/>
-I design and build **modern mobile applications**, **reliable backend APIs**, and **scalable digital products**.  
-I enjoy taking an idea from concept to a polished, production-ready solution.
+I build **modern mobile apps**, **reliable backend APIs**, and **scalable digital products**.
 
-<br/>
-#### 🎯 What I Do
-| Focus | Details |
+#### 🎯 Focus Areas
+
+| Area | Stack |
 |---|---|
-| 📱 **Mobile Apps** | Flutter, Kotlin, Android, Firebase |
-| ⚙️ **Backend Systems** | ASP.NET Core, C#, REST APIs |
-| 🗄️ **Data & Storage** | SQL Server, SQLite, Firebase |
-| 🚀 **Product Mindset** | Clean architecture, performance, UX |
-<br/>
+| 📱 Mobile | Flutter, Kotlin, Android |
+| ⚙️ Backend | ASP.NET Core, C#, REST APIs |
+| 🗄️ Data | SQL Server, Firebase, SQLite |
+
 #### 🧠 Currently
-- 🔭 Building mobile and backend products  
-- 🌱 Exploring advanced Flutter architecture & cloud integration  
-- 💬 Open to collaborations, internships, and software engineering roles  
-<br/>
+
+- 🔭 Building mobile & backend products  
+- 🌱 Exploring Flutter architecture & cloud integration  
+- 💬 Open to collaborations and opportunities  
+
 > ✨ **Minimal code. Maximum impact.**
 
 </td>
