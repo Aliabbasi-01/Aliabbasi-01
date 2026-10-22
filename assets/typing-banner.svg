@@ -33,17 +33,21 @@
     @keyframes type4 { to { clip-path: inset(0 0 0 0); } }
   </style>
 
-  <!-- Line 1 -->
-  <text x="20" y="30" class="typing line1">Building high-quality mobile apps 📱</text>
+  <!-- Typing lines -->
+  <text x="20" y="34" class="typing line1">Building high-quality mobile apps 📱</text>
+  <text x="20" y="34" class="typing line2" opacity="0">Crafting robust backend systems ⚙️</text>
+  <text x="20" y="34" class="typing line3" opacity="0">Flutter • Kotlin • ASP.NET Core • C#</text>
+  <text x="20" y="34" class="typing line4" opacity="0">Small steps, big progress 🚀</text>
 
-  <!-- Line 2 -->
-  <text x="20" y="30" class="typing line2" opacity="0">Crafting robust backend systems ⚙️</text>
-
-  <!-- Line 3 -->
-  <text x="20" y="30" class="typing line3" opacity="0">Flutter • Kotlin • ASP.NET Core • C#</text>
-
-  <!-- Line 4 -->
-  <text x="20" y="30" class="typing line4" opacity="0">Small steps, big progress 🚀</text>
-
-  <rect x="20" y="42" width="10" height="20" class="cursor"/>
+  <!-- Moving + blinking cursor -->
+  <rect y="18" width="10" height="22" rx="2" class="cursor">
+    <animate
+      attributeName="x"
+      dur="12s"
+      repeatCount="indefinite"
+      calcMode="linear"
+      values="20;20;538;538;20;510;510;20;553;553;20;423;423"
+      keyTimes="0;0.025;0.208;0.233;0.234;0.417;0.442;0.443;0.642;0.667;0.668;0.85;1"
+    />
+  </rect>
 </svg>
