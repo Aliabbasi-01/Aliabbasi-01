@@ -197,7 +197,6 @@ I build **modern mobile apps**, **reliable backend APIs**, and **scalable digita
 
 <img src="assets/divider.svg" width="100%" />
 
-<img src="assets/divider.svg" width="100%" />
 
 ## 🤝 Let's Connect
 
