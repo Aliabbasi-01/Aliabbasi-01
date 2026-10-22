@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#04060F"/>
+      <stop offset="0.55" stop-color="#0A0F22"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#E879F9"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-0.35 0;0.35 0;-0.35 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <style>
+    .title { font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif; font-size:30px; font-weight:700; fill:#F8FAFC; }
+    .sub { font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif; font-size:16px; fill:#8FA3BF; }
+    .label { font-family:'Segoe UI',Roboto,Helvetica,Arial,sans-serif; font-size:15px; font-weight:700; fill:#E2E8F0; }
+    .value { font-family:'Courier New',monospace; font-size:14px; fill:#22D3EE; }
+    .mono { font-family:'Courier New',monospace; font-size:14px; fill:#C9D1D9; }
+    .cursor { fill:#22D3EE; animation:blink 1s steps(1) infinite; }
+    .pulse { animation:pulse 4s ease-in-out infinite; transform-origin:600px 150px; }
+    .float1 { animation:float 6s ease-in-out infinite; }
+    .float2 { animation:float 7s ease-in-out infinite reverse; }
+    .bar { transform-origin:left center; animation:grow 2.6s cubic-bezier(.22,.61,.36,1) forwards; }
+    .b1 { animation-delay:.4s; }
+    .b2 { animation-delay:.8s; }
+    .b3 { animation-delay:1.2s; }
+
+    @keyframes blink { 50% { opacity:0; } }
+    @keyframes pulse { 0%,100% { transform:scale(1); opacity:.85; } 50% { transform:scale(1.05); opacity:1; } }
+    @keyframes float { 0%,100% { transform:translateY(0); } 50% { transform:translateY(-8px); } }
+    @keyframes grow { from { transform:scaleX(0); } to { transform:scaleX(1); } }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="23" fill="none" stroke="#22D3EE" stroke-opacity="0.20"/>
+  <circle cx="1050" cy="70" r="220" fill="url(#glow2)"/>
+  <circle cx="130" cy="250" r="220" fill="url(#glow1)"/>
+
+  <!-- Header -->
+  <text x="60" y="70" class="title">Currently Building</text>
+  <text x="60" y="98" class="sub">Mobile products, backend systems and clean developer experiences.</text>
+  <rect x="60" y="112" width="220" height="3" rx="1.5" fill="url(#neon)"/>
+
+  <!-- Left project panel -->
+  <g class="float1">
+    <rect x="60" y="145" width="500" height="115" rx="18" fill="#050B18" stroke="#22D3EE" stroke-opacity="0.22"/>
+    <text x="85" y="180" class="label">📱 Expense Tracker — Flutter</text>
+    <text x="85" y="208" class="mono">Building a clean expense management experience</text>
+    <text x="85" y="232" class="mono">with local storage, insights and modern UI.</text>
+  </g>
+
+  <!-- Right project panel -->
+  <g class="float2">
+    <rect x="640" y="145" width="500" height="115" rx="18" fill="#050B18" stroke="#A78BFA" stroke-opacity="0.22"/>
+    <text x="665" y="180" class="label">⚙️ REST API — ASP.NET Core</text>
+    <text x="665" y="208" class="mono">Developing secure, scalable backend services</text>
+    <text x="665" y="232" class="mono">with clean architecture and SQL Server.</text>
+  </g>
+
+  <!-- Progress bars -->
+  <text x="60" y="288" class="label">Flutter</text>
+  <rect x="150" y="276" width="280" height="8" rx="4" fill="#101A2E"/>
+  <rect x="150" y="276" width="258" height="8" rx="4" fill="url(#neon)" class="bar b1"/>
+
+  <text x="470" y="288" class="label">ASP.NET Core</text>
+  <rect x="610" y="276" width="280" height="8" rx="4" fill="#101A2E"/>
+  <rect x="610" y="276" width="246" height="8" rx="4" fill="url(#neon)" class="bar b2"/>
+
+  <text x="930" y="288" class="label">Learning</text>
+  <rect x="1030" y="276" width="120" height="8" rx="4" fill="#101A2E"/>
+  <rect x="1030" y="276" width="102" height="8" rx="4" fill="url(#neon)" class="bar b3"/>
+
+  <!-- Center pulse -->
+  <circle cx="600" cy="150" r="120" fill="url(#glow1)" class="pulse" opacity="0.35"/>
+</svg>
