@@ -1,142 +1,138 @@
-<!-- ============ HEADER BANNER ============ -->
+<!-- ===================== ANIMATED HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2A,50:3B1F8F,100:2563EB&height=230&section=header&text=Muhammad%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Application%20Developer%20%7C%20Backend%20Developer&descSize=17&descAlignY=60" width="100%" alt="Muhammad Ali banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1E1B4B,70:4C1D95,100:2563EB&height=260&section=header&text=Muhammad%20Ali&fontSize=68&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=%E2%9C%A8%20Software%20Engineer%20%E2%80%A2%20Mobile%20%26%20Backend%20Developer%20%E2%9C%A8&descSize=20&descAlignY=58&stroke=22D3EE&strokeWidth=1" width="100%" alt="header" />
 
 <a href="https://github.com/MuhammadAli-01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Turning+ideas+into+scalable+applications;Flutter+%7C+Kotlin+%7C+ASP.NET+Core+%7C+C%23;Code+%E2%80%A2+Build+%E2%80%A2+Innovate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Ali;Turning+ideas+into+scalable+applications+%F0%9F%9A%80;Flutter+%E2%80%A2+Kotlin+%E2%80%A2+ASP.NET+Core+%E2%80%A2+C%23;Code+%E2%80%A2+Build+%E2%80%A2+Innovate" alt="typing animation" />
 </a>
 
 <br/>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-8B5CF6?style=for-the-badge&logo=serverfault&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=MuhammadAli-01&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/github/followers/MuhammadAli-01?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=2563EB&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LOCATION-PAKISTAN%20%F0%9F%87%B5%F0%9F%87%B0-22D3EE?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
-![Location](https://img.shields.io/badge/📍_Pakistan-0B0F2A?style=for-the-badge&labelColor=0B0F2A&color=3B82F6)
-![Followers](https://img.shields.io/github/followers/MuhammadAli-01?style=for-the-badge&logo=github&labelColor=0B0F2A&color=3B82F6)
-![Profile Views](https://komarev.com/ghpvc/?username=MuhammadAli-01&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0B0F2A)
-![Open Source](https://img.shields.io/badge/⭐_Open_Source-Contributor-0B0F2A?style=for-the-badge&labelColor=0B0F2A&color=8B5CF6)
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" width="100%" />
 
-<!-- ============ 01. ABOUT ME ============ -->
-## 👨‍💻 01. About Me
+<!-- ===================== ABOUT ===================== -->
+## 👨‍💻 About Me
 
-I'm **Muhammad Ali**, a passionate Software Engineer focused on building high-quality mobile applications, robust backend systems, and scalable web solutions.
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm **Muhammad Ali**, a passionate Software Engineer focused on building **high-quality mobile apps**, **robust backend systems**, and **scalable web solutions**.
 
 I love exploring new technologies, solving real-world problems, and creating products that make a difference.
 
+```yaml
+Mobile   : Flutter, Kotlin, Android
+Backend  : ASP.NET Core, ASP.NET, C#
+Database : SQL Server, Firebase, SQLite
+Tools    : Git, Docker, VS Code, Visual Studio
+```
+
 > 💡 **Ideas + Technology = Impact**
 
-| | | |
-|---|---|---|
-| 📱 **Mobile** | : | Flutter, Kotlin, Android |
-| ⚙️ **Backend** | : | ASP.NET Core, ASP.NET, C# |
-| 🗄️ **Database** | : | SQL Server, Firebase, SQLite |
-| 🛠️ **Tools** | : | Git, Docker, VS Code, Visual Studio |
+</td>
+<td width="40%" align="center" valign="middle">
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=A78BFA&center=true&vCenter=true&width=300&height=120&lines=%F0%9F%94%AD+Currently+building+Flutter+apps;%E2%9A%99%EF%B8%8F+Working+on+ASP.NET+Core+APIs;%F0%9F%93%9A+Learning+new+technologies;%F0%9F%A4%9D+Open+to+collaborations;%E2%9A%A1+Better+Code%2C+Bigger+Dreams" />
 
-<!-- ============ 02. TECH STACK ============ -->
-## 🧰 02. My Tech Stack
-
-<table align="center">
-  <tr>
-    <th align="center">📱 Mobile & Cross Platform</th>
-    <th align="center">⚙️ Backend & APIs</th>
-    <th align="center">🗄️ Databases</th>
-    <th align="center">🛠️ Tools & Others</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" /><br/>
-      <sub>Flutter • Dart • Kotlin • Android</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman&theme=dark" /><br/>
-      <sub>ASP.NET • C# • Node.js • REST APIs</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite&theme=dark" /><br/>
-      <sub>MySQL • Firebase • SQLite</sub><br/>
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,figma&theme=dark" /><br/>
-      <sub>Git • GitHub • Docker • VS Code • Visual Studio • Figma</sub>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" width="100%" />
 
-<!-- ============ 03. FEATURED PROJECTS ============ -->
-## 🚀 03. Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>💰 Expense Tracker</h3>
-      <p>A simple and beautiful expense tracker app with charts and income/expense management.</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      <br/><br/>
-      <a href="https://github.com/MuhammadAli-01/YOUR-EXPENSE-TRACKER-REPO">🔗 View Project</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🌐 Portfolio Website</h3>
-      <p>My personal portfolio website built with modern technologies and clean UI/UX.</p>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <br/><br/>
-      <a href="https://github.com/MuhammadAli-01/YOUR-PORTFOLIO-REPO">🔗 View Project</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>☁️ Backend API</h3>
-      <p>A secure and scalable REST API with authentication and SQL Server integration.</p>
-      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/MuhammadAli-01/YOUR-API-REPO">🔗 View Project</a>
-    </td>
-  </tr>
-</table>
-
-<div align="right"><a href="https://github.com/MuhammadAli-01?tab=repositories">View All Projects →</a></div>
-
-<br/>
-
-<!-- ============ 04. GITHUB STATS ============ -->
-## 📊 04. GitHub Stats
+<!-- ===================== TECH STACK ===================== -->
+## 🧰 My Tech Stack
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadAli-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F2A&title_color=22D3EE&icon_color=8B5CF6" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAli-01&layout=donut&theme=tokyonight&hide_border=true&bg_color=0B0F2A&title_color=22D3EE" alt="Top Languages" />
+**📱 Mobile & Cross Platform**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" /><br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAli-01&theme=tokyo-night&hide_border=true&bg_color=0B0F2A&color=22D3EE&line=8B5CF6&point=ffffff" width="100%" alt="Contribution Activity" />
+**⚙️ Backend & APIs**<br/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman,swagger&theme=dark" /><br/><br/>
 
-**🔥 Small Steps, Big Progress**
+**🗄️ Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite&theme=dark" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /><br/><br/>
+
+**🛠️ Tools & Others**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,figma&theme=dark" />
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" width="100%" />
+
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+<!-- 👉 Replace YOUR-REPO-NAME with the exact names of your repositories -->
+<div align="center">
+
+<a href="https://github.com/MuhammadAli-01/YOUR-EXPENSE-TRACKER-REPO">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAli-01&repo=YOUR-EXPENSE-TRACKER-REPO&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE&icon_color=A78BFA" />
+</a>
+<a href="https://github.com/MuhammadAli-01/YOUR-PORTFOLIO-REPO">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAli-01&repo=YOUR-PORTFOLIO-REPO&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE&icon_color=A78BFA" />
+</a>
+<a href="https://github.com/MuhammadAli-01/YOUR-API-REPO">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAli-01&repo=YOUR-API-REPO&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE&icon_color=A78BFA" />
+</a>
+<a href="https://github.com/MuhammadAli-01?tab=repositories">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAli-01&repo=YOUR-4TH-REPO&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE&icon_color=A78BFA" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" width="100%" />
+
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=MuhammadAli-01&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE&icon_color=A78BFA&hide_border=false&count_private=true" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAli-01&layout=compact&langs_count=6&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE" />
+
+<img src="https://streak-stats.demolab.com?user=MuhammadAli-01&theme=tokyonight&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=22D3EE&border=4C1D95" />
+
 <br/>
 
-<!-- ============ 05. CONNECT ============ -->
-## 🤝 05. Let's Connect
+### 🔥 Contribution Activity
 
-Feel free to reach out, I'm always open to new opportunities, collaborations and interesting projects.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAli-01&theme=tokyo-night&bg_color=0D1117&color=22D3EE&line=A78BFA&point_color=FFFFFF&area=true&hide_border=true" width="100%" />
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=MuhammadAli-01&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/MuhammadAli-01/MuhammadAli-01/output/github-snake-dark.svg" width="100%" alt="snake animation" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" width="100%" />
+
+<!-- ===================== CONNECT ===================== -->
+## 🤝 Let's Connect
+
+Feel free to reach out. I'm always open to **new opportunities**, **collaborations** and **interesting projects**.
 
 <div align="center">
 
@@ -147,10 +143,10 @@ Feel free to reach out, I'm always open to new opportunities, collaborations and
 
 <br/><br/>
 
-*✨ Make Something Amazing ✨*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=A78BFA&center=true&vCenter=true&width=500&height=35&lines=Small+Steps%2C+Big+Progress+%F0%9F%9A%80;Make+Something+Amazing+%E2%9C%A8;Keep+going%E2%80%A6+Great+things+take+time+%F0%9F%92%9C" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B1F8F,100:0B0F2A&height=110&section=footer&text=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Grow&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,35:4C1D95,70:1E1B4B,100:0D1117&height=140&section=footer&text=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Grow&fontSize=24&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" width="100%" />
 
-© 2025 Muhammad Ali &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Pakistan 🇵🇰
+<sub>© 2025 Muhammad Ali &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Pakistan 🇵🇰</sub>
 
 </div>
