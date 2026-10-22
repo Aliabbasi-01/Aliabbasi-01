@@ -182,46 +182,20 @@ I build **modern mobile apps**, **reliable backend APIs**, and **scalable digita
 
 <div align="center">
 
-<table>
-<tr>
-<td width="49.5%" valign="top">
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=Aliabbasi-01&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE&icon_color=A78BFA&count_private=true"
+ />
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Aliabbasi-01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA&count_private=true&include_all_commits=true"
-  width="100%"
-  alt="Muhammad Ali GitHub stats"
-/>
+<img src="https://streak-stats.demolab.com?user=Aliabbasi-01&theme=tokyonight&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=22D3EE&border=4C1D95"
 
-</td>
-<td width="49.5%" valign="top">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aliabbasi-01&theme=tokyo-night&bg_color=0D1117&color=22D3EE&line=A78BFA&point_color=FFFFFF&area=true&hide_border=true"
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliabbasi-01&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9"
-  width="100%"
-  alt="Muhammad Ali most used languages"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aliabbasi-01&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=Aliabbasi-01&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=7C8AA5"
-  width="72%"
-  alt="GitHub streak statistics"
-/>
-
-<br/><br/>
-
-<img
-  src="https://raw.githubusercontent.com/Aliabbasi-01/Aliabbasi-01/output/github-snake-dark.svg"
-  width="100%"
-  alt="GitHub contribution snake animation"
-/>
+<img src="https://raw.githubusercontent.com/Aliabbasi-01/Aliabbasi-01/output/github-snake-dark.svg"
 
 </div>
+
+<img src="assets/divider.svg" width="100%" />
 
 <img src="assets/divider.svg" width="100%" />
 
