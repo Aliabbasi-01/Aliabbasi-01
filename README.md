@@ -1,121 +1,156 @@
+<!-- ============ HEADER BANNER ============ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=Muhammad%20Ali&fontSize=58&fontColor=58A6FF&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%20%E2%80%A2%20%20APPLICATION%20DEVELOPER&descSize=14&descColor=C9D1D9&descAlignY=65&animation=fadeIn" alt="Muhammad Ali premium developer banner"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Engineering+Ideas+Into+Software.;Building+Mobile+Apps+%26+Scalable+APIs.;Flutter+%7C+Kotlin+%7C+ASP.NET+Core;Minimal+Code.+Maximum+Impact." alt="Developer tagline"/>
-  <br/>
-  <img src="https://img.shields.io/badge/BASED%20IN-Pakistan-161B22?style=flat-square&labelColor=161B22&color=1F6FEB"/>
-  <img src="https://komarev.com/ghpvc/?username=Aliabbasi-01&style=flat-square&color=1F6FEB&label=PROFILE+VIEWS"/>
-  <a href="https://github.com/Aliabbasi-01?tab=repositories"><img src="https://img.shields.io/badge/OPEN%20SOURCE-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2A,50:3B1F8F,100:2563EB&height=230&section=header&text=Muhammad%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Application%20Developer%20%7C%20Backend%20Developer&descSize=17&descAlignY=60" width="100%" alt="Muhammad Ali banner"/>
+
+<a href="https://github.com/MuhammadAli-01">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Turning+ideas+into+scalable+applications;Flutter+%7C+Kotlin+%7C+ASP.NET+Core+%7C+C%23;Code+%E2%80%A2+Build+%E2%80%A2+Innovate" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-8B5CF6?style=for-the-badge&logo=serverfault&logoColor=white)
+
+<br/><br/>
+
+![Location](https://img.shields.io/badge/📍_Pakistan-0B0F2A?style=for-the-badge&labelColor=0B0F2A&color=3B82F6)
+![Followers](https://img.shields.io/github/followers/MuhammadAli-01?style=for-the-badge&logo=github&labelColor=0B0F2A&color=3B82F6)
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadAli-01&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0B0F2A)
+![Open Source](https://img.shields.io/badge/⭐_Open_Source-Contributor-0B0F2A?style=for-the-badge&labelColor=0B0F2A&color=8B5CF6)
+
 </div>
 
 <br/>
 
-## `01` — The Developer
+<!-- ============ 01. ABOUT ME ============ -->
+## 👨‍💻 01. About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Developer coding animation"/>
+I'm **Muhammad Ali**, a passionate Software Engineer focused on building high-quality mobile applications, robust backend systems, and scalable web solutions.
 
-I'm **Muhammad Ali**, a Software Engineer focused on building useful applications and reliable backend systems.
+I love exploring new technologies, solving real-world problems, and creating products that make a difference.
 
-I work across the application stack, from mobile interfaces to APIs and database integration.
+> 💡 **Ideas + Technology = Impact**
 
-- **Mobile:** Flutter, Kotlin & Android
-- **Backend:** C#, ASP.NET Core & ASP.NET Web API
-- **Data:** SQL Server, Firebase & SQLite
-- **Engineering:** REST APIs, clean architecture & maintainable code
+| | | |
+|---|---|---|
+| 📱 **Mobile** | : | Flutter, Kotlin, Android |
+| ⚙️ **Backend** | : | ASP.NET Core, ASP.NET, C# |
+| 🗄️ **Database** | : | SQL Server, Firebase, SQLite |
+| 🛠️ **Tools** | : | Git, Docker, VS Code, Visual Studio |
 
-I believe great software should be simple to use, efficient to run, and easy to maintain.
+<br/>
 
-<br clear="right"/>
+<!-- ============ 02. TECH STACK ============ -->
+## 🧰 02. My Tech Stack
 
-> `Less complexity. Better engineering. Real-world impact.`
+<table align="center">
+  <tr>
+    <th align="center">📱 Mobile & Cross Platform</th>
+    <th align="center">⚙️ Backend & APIs</th>
+    <th align="center">🗄️ Databases</th>
+    <th align="center">🛠️ Tools & Others</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" /><br/>
+      <sub>Flutter • Dart • Kotlin • Android</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,postman&theme=dark" /><br/>
+      <sub>ASP.NET • C# • Node.js • REST APIs</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite&theme=dark" /><br/>
+      <sub>MySQL • Firebase • SQLite</sub><br/>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,figma&theme=dark" /><br/>
+      <sub>Git • GitHub • Docker • VS Code • Visual Studio • Figma</sub>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-## `02` — Engineering Stack
+<!-- ============ 03. FEATURED PROJECTS ============ -->
+## 🚀 03. Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>💰 Expense Tracker</h3>
+      <p>A simple and beautiful expense tracker app with charts and income/expense management.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <br/><br/>
+      <a href="https://github.com/MuhammadAli-01/YOUR-EXPENSE-TRACKER-REPO">🔗 View Project</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌐 Portfolio Website</h3>
+      <p>My personal portfolio website built with modern technologies and clean UI/UX.</p>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <br/><br/>
+      <a href="https://github.com/MuhammadAli-01/YOUR-PORTFOLIO-REPO">🔗 View Project</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>☁️ Backend API</h3>
+      <p>A secure and scalable REST API with authentication and SQL Server integration.</p>
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/MuhammadAli-01/YOUR-API-REPO">🔗 View Project</a>
+    </td>
+  </tr>
+</table>
+
+<div align="right"><a href="https://github.com/MuhammadAli-01?tab=repositories">View All Projects →</a></div>
+
+<br/>
+
+<!-- ============ 04. GITHUB STATS ============ -->
+## 📊 04. GitHub Stats
 
 <div align="center">
 
-**APPLICATIONS**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MuhammadAli-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F2A&title_color=22D3EE&icon_color=8B5CF6" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAli-01&layout=donut&theme=tokyonight&hide_border=true&bg_color=0B0F2A&title_color=22D3EE" alt="Top Languages" />
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio&theme=dark" alt="Application development technologies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAli-01&theme=tokyo-night&hide_border=true&bg_color=0B0F2A&color=22D3EE&line=8B5CF6&point=ffffff" width="100%" alt="Contribution Activity" />
 
-**BACKEND & DATABASES**
+**🔥 Small Steps, Big Progress**
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,sqlite,firebase&theme=dark" alt="Backend and database technologies"/>
-
-<img src="https://img.shields.io/badge/ASP.NET%20Core-181818?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="ASP.NET Core"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Web%20API-181818?style=for-the-badge&logo=dotnet&logoColor=9B59B6" alt="ASP.NET Web API"/>
-<img src="https://img.shields.io/badge/SQL%20Server-181818?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server"/>
-<img src="https://img.shields.io/badge/REST%20APIs-181818?style=for-the-badge&logo=fastapi&logoColor=58A6FF" alt="REST APIs"/>
-
-**TOOLS & WEB**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,html,css,js,figma&theme=dark" alt="Development tools and web technologies"/>
-
-</div>
-
----
-
-## `03` — Selected Work
-
-<div align="center">
-  <a href="https://github.com/Aliabbasi-01">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aliabbasi-01&repo=Expense_Tracker_Flutter&theme=github_dark&hide_border=true&border_radius=12" width="49%" alt="Expense Tracker project card"/>
-  </a>
-  <a href="https://github.com/Aliabbasi-01">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aliabbasi-01&repo=Muhammad-Ali-Portfolio&theme=github_dark&hide_border=true&border_radius=12" width="49%" alt="Portfolio project card"/>
-  </a>
-</div>
-
-<div align="center">
-
-| Focus | What I build |
-|:---|:---|
-| Mobile Engineering | User-focused Android and Flutter applications |
-| Backend Engineering | REST APIs, authentication and database-driven services |
-| Application Architecture | Maintainable code and organized application layers |
-
-</div>
-
-<div align="center">
-  <a href="https://github.com/Aliabbasi-01?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore all projects"/>
-  </a>
-</div>
-
----
-
-## `04` — GitHub Performance
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aliabbasi-01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliabbasi-01&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aliabbasi-01&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub contribution streak"/>
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aliabbasi-01&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph"/>
-</div>
-
----
-
-## `05` — Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ali-abbasi-308b71299/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/></a>
-  <a href="mailto:aliabbasi4703127@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20In%20Touch-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-  <a href="https://github.com/Aliabbasi-01"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
-  <a href="https://www.instagram.com/ali_abbasi312/"><img src="https://img.shields.io/badge/Instagram-Connect-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
 </div>
 
 <br/>
 
+<!-- ============ 05. CONNECT ============ -->
+## 🤝 05. Let's Connect
+
+Feel free to reach out, I'm always open to new opportunities, collaborations and interesting projects.
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=footer&text=BUILD.%20IMPROVE.%20REPEAT.&fontSize=20&fontColor=58A6FF&animation=fadeIn" width="100%" alt="Build improve repeat footer"/>
-  <sub>Designed with precision. Powered by curiosity.</sub>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/MuhammadAli-01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<br/><br/>
+
+*✨ Make Something Amazing ✨*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B1F8F,100:0B0F2A&height=110&section=footer&text=Build%20%E2%80%A2%20Learn%20%E2%80%A2%20Grow&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%" alt="footer"/>
+
+© 2025 Muhammad Ali &nbsp;|&nbsp; Software Engineer &nbsp;|&nbsp; Pakistan 🇵🇰
+
 </div>
