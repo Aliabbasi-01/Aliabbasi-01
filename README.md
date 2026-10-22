@@ -178,20 +178,64 @@ I build **modern mobile apps**, **reliable backend APIs**, and **scalable digita
 
 <img src="assets/divider.svg" width="100%" />
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=Aliabbasi-01&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE&icon_color=A78BFA&count_private=true" />
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliabbasi-01&layout=compact&langs_count=6&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE" />
+<table>
+<tr>
+<td width="49.5%" valign="top">
 
-<img src="https://streak-stats.demolab.com?user=Aliabbasi-01&theme=tokyonight&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=22D3EE&border=4C1D95" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Aliabbasi-01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA&count_private=true&include_all_commits=true&cache_seconds=86400"
+  width="100%"
+  alt="Muhammad Ali GitHub stats"
+/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aliabbasi-01&theme=tokyo-night&bg_color=0D1117&color=22D3EE&line=A78BFA&point_color=FFFFFF&area=true&hide_border=true" width="100%" />
+</td>
+<td width="49.5%" valign="top">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aliabbasi-01&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliabbasi-01&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=A78BFA&cache_seconds=86400"
+  width="100%"
+  alt="Muhammad Ali most used languages"
+/>
 
-<img src="https://raw.githubusercontent.com/Aliabbasi-01/Aliabbasi-01/output/github-snake-dark.svg" width="100%" alt="contribution snake" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=Aliabbasi-01&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=7C8AA5&currStreakNum=FFFFFF"
+  width="70%"
+  alt="GitHub streak statistics"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Aliabbasi-01&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=A78BFA&area=true&area_color=7C3AED&hide_border=true&radius=16"
+  width="100%"
+  alt="GitHub contribution activity graph"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Aliabbasi-01&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=12&title=My%20GitHub%20Achievements"
+  width="100%"
+  alt="GitHub profile trophies"
+/>
+
+<br/><br/>
+
+<img
+  src="https://raw.githubusercontent.com/Aliabbasi-01/Aliabbasi-01/output/github-snake-dark.svg"
+  width="100%"
+  alt="GitHub contribution snake animation"
+/>
 
 </div>
 
