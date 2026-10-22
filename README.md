@@ -94,15 +94,29 @@ I enjoy taking an idea from concept to a polished, production-ready solution.
 
 ## 🚀 Featured Projects
 
-<!-- 👉 Replace each YOUR-...-REPO with the exact repository name from your GitHub -->
 <div align="center">
 
-<a href="https://github.com/Aliabbasi-01/YOUR-EXPENSE-TRACKER-REPO"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliabbasi-01&repo=YOUR-EXPENSE-TRACKER-REPO&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE&icon_color=A78BFA" /></a>
-<a href="https://github.com/Aliabbasi-01/YOUR-PORTFOLIO-REPO"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliabbasi-01&repo=YOUR-PORTFOLIO-REPO&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE&icon_color=A78BFA" /></a>
-<a href="https://github.com/Aliabbasi-01/YOUR-API-REPO"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliabbasi-01&repo=YOUR-API-REPO&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE&icon_color=A78BFA" /></a>
-<a href="https://github.com/Aliabbasi-01/YOUR-4TH-REPO"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliabbasi-01&repo=YOUR-4TH-REPO&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE&icon_color=A78BFA" /></a>
+<a href="https://github.com/Aliabbasi-01/Expense_Tracker_Flutter">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliabbasi-01&repo=Expense_Tracker_Flutter&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE&icon_color=A78BFA" alt="Expense Tracker Flutter" />
+</a>
 
-<a href="https://github.com/Aliabbasi-01?tab=repositories">View all projects →</a>
+<a href="https://github.com/Aliabbasi-01/Muhammad-Ali-Portfolio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliabbasi-01&repo=Muhammad-Ali-Portfolio&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE&icon_color=A78BFA" alt="Muhammad Ali Portfolio" />
+</a>
+
+<a href="https://github.com/Aliabbasi-01/Movie_App_Task">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliabbasi-01&repo=Movie_App_Task&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE&icon_color=A78BFA" alt="Movie App Task" />
+</a>
+
+<a href="https://github.com/Aliabbasi-01/katalon">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aliabbasi-01&repo=katalon&theme=tokyonight&bg_color=0D1117&border_color=4C1D95&title_color=22D3EE&icon_color=A78BFA" alt="Katalon" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Aliabbasi-01?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Projects-→-22D3EE?style=for-the-badge&labelColor=0D1117" alt="View all projects" />
+</a>
 
 </div>
 
